@@ -17,8 +17,7 @@ Nos últimos anos, atuei com desenvolvimento web, suporte técnico e criação d
 - **Metodologias**: Scrum, Kanban
 
 ## 📂 Projetos em destaque
-- [Projeto de Site Responsivo](https://github.com/kaddumotta/projeto-site-responsivo) – HTML, CSS, JavaScript
-- [API REST com Spring Boot](https://github.com/kaddumotta/api-springboot) – Java + MySQL
+- [Projeto de Site Responsivo]([https://github.com/kaddumotta/projeto-site-responsivo](https://github.com/kaddumotta/Projeto-Cordel/tree/main)) – HTML, CSS, JavaScript
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-motta-b520a669)
